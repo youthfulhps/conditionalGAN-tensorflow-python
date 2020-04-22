@@ -1,0 +1,5 @@
+data_dir/*
+!data_dir/.gitkeep
+
+model_dir/*
+!model_dir/.gitkeep
